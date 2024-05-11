@@ -1,5 +1,5 @@
 # Sou_Mae_Chatbot
-Desafio Alura+Google
+Desafio Ai Alura+Google
 <h3>Laris: Sua Melhor Amiga na Maternidade! 💖👶</h3>
  <p>Chegou a hora de dizer adeus às noites em claro e olá para a confiança na sua jornada como mãe! </p> 
 <p>Se você é mãe de primeira viagem e se sente um pouco perdida, Laris é a mão amiga que você precisava. 🙋‍♀️ </p>
