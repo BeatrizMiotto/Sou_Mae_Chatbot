@@ -5,9 +5,9 @@ Desafio Alura+Google
 <p>Se você é mãe de primeira viagem e se sente um pouco perdida, Laris é a mão amiga que você precisava. 🙋‍♀️ </p>
 <h3>O que Laris faz por você?</h3>
 <p><b>Guia prática:</b> Tire suas dúvidas sobre amamentação, sono do bebê, desenvolvimento e muito mais, com respostas rápidas e confiáveis.</p>
-<p>Suporte 24/7: Laris está sempre disponível para te ajudar, a qualquer hora do dia ou da noite, sem julgamentos.</p>
-<p>Informações personalizadas: Conte para Laris sobre você e seu bebê, e ela te dará dicas e conselhos específicos para sua situação.</p>
-<p>Calma na alma: Encontre paz e segurança com informações confiáveis e apoio constante.</p>
+<p><b>Suporte 24/7:</b> Laris está sempre disponível para te ajudar, a qualquer hora do dia ou da noite, sem julgamentos.</p>
+<p><b>Informações personalizadas:</b> Conte para Laris sobre você e seu bebê, e ela te dará dicas e conselhos específicos para sua situação.</p>
+<p><b>Calma na alma:</b> Encontre paz e segurança com informações confiáveis e apoio constante.</p>
 <p>Com Laris, você não está sozinha!</p>
 <p>Comece a usar Laris agora mesmo!</p>
 
